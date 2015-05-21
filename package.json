@@ -1,0 +1,19 @@
+{
+  "name": "tfs",
+  "version": "0.0.0",
+  "description": "A tool for watching TFL trends",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/thecodeite/tfs"
+  },
+  "author": "Sam Plews",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeite/tfs/issues"
+  },
+  "homepage": "https://github.com/codeite/tfs"
+}
